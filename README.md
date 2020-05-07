@@ -8,7 +8,7 @@ This project uses:
 -AJAX/JQUERY 
 -MySQL
 -PHPmyAdmin 
--and an API. 
+and an API. 
 
 It demonstrates a rough idea (outline) of how a Landlord can manage its users/tenants, by adding new tenants, managing their billing, creating/modify/delete work orders, or to delete/move them from the system.
 It allows a user to create a profile or for an admin to add a user.
